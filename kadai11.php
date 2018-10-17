@@ -6,7 +6,7 @@ class Pet {
      $this->name = $name;
  }
  public function petName(){
-     echo "この子の名前は、$this->name です。aaa";
+     echo "この子の名前は、$this->name です。bbb";
  }
 }
 
